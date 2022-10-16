@@ -17,3 +17,4 @@ TG_TOKEN="...:..."
 
 - Open webhook settings in your GitHub repository
 - Add a new webhook with `URL of script?chat=your_chat_id`, and content-type application/json
+- test
